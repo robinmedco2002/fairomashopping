@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fairomashopping/static/css/main.fe8ad592.chunk.css",
-    "main.js": "/fairomashopping/static/js/main.94182cfd.chunk.js",
-    "main.js.map": "/fairomashopping/static/js/main.94182cfd.chunk.js.map",
+    "main.js": "/fairomashopping/static/js/main.949c7510.chunk.js",
+    "main.js.map": "/fairomashopping/static/js/main.949c7510.chunk.js.map",
     "runtime-main.js": "/fairomashopping/static/js/runtime-main.e36aedf7.js",
     "runtime-main.js.map": "/fairomashopping/static/js/runtime-main.e36aedf7.js.map",
     "static/css/2.fdffef8f.chunk.css": "/fairomashopping/static/css/2.fdffef8f.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.fdffef8f.chunk.css",
     "static/js/2.00ba5b2d.chunk.js",
     "static/css/main.fe8ad592.chunk.css",
-    "static/js/main.94182cfd.chunk.js"
+    "static/js/main.949c7510.chunk.js"
   ]
 }
